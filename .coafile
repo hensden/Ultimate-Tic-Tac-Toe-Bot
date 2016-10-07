@@ -1,0 +1,6 @@
+[Default]
+
+[python]
+bears = PEP8Bear, SpaceConsistencyBear
+files = src/*.py
+default_actions = PEP8Bear:ApplyPatchAction, SpaceConsistencyBear:ApplyPatchAction

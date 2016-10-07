@@ -1,0 +1,3 @@
+[submodule "coala"]
+	path = coala
+	url = https://github.com/aayn/coala.git
